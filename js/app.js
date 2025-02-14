@@ -297,10 +297,10 @@
             }));
         }
     }), 0);
-    const leaf1 = __webpack_require__.p + "../img/leaf1.webp";
-    const leaf2 = __webpack_require__.p + "../img/leaf2.webp";
-    const leaf3 = __webpack_require__.p + "../img/leaf3.webp";
-    const leaf4 = __webpack_require__.p + "../img/leaf4.webp";
+    const leaf1 = __webpack_require__.p + "demo-minecraft-install/img/leaf1.webp";
+    const leaf2 = __webpack_require__.p + "demo-minecraft-install/img/leaf2.webp";
+    const leaf3 = __webpack_require__.p + "demo-minecraft-install/img/leaf3.webp";
+    const leaf4 = __webpack_require__.p + "demo-minecraft-install/img/leaf4.webp";
     if (window.innerWidth > 549.98) {
         document.addEventListener("DOMContentLoaded", (function() {
             let activeToast = null;
